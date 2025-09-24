@@ -1,0 +1,116 @@
+/* Custom styles on top of Bootstrap */
+
+/* Global */
+body {
+  background: linear-gradient(135deg, #0c1218 0%, #1a1a1a 100%);
+  color: #f5f5f5; /* Light text for readability */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  padding-bottom: 60px;
+  min-height: 100vh;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #0c1218;
+}
+.navbar-brand img {
+  height: 40px;
+}
+./* Navbar Links */
+.navbar-nav .nav-link {
+  color: #d1d1d1 !important; /* subtle light gray for default */
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #d18b32 !important; /* golden-orange highlight */
+}
+
+.navbar-nav .nav-link.active {
+  color: #d18b32 !important; /* keep active link in accent color */
+  font-weight: 600;
+  border-bottom: 2px solid #d18b32; /* optional underline effect */
+}
+
+}
+.navbar-nav .nav-link:hover {
+  color: #d18b32 !important;
+}
+
+/* Hero Section */
+.hero {
+  background: url('../assets/images/hero.jpg') no-repeat center center/cover;
+  color: #ffffff;
+  padding: 150px 0;
+  text-align: center;
+  background-blend-mode: multiply;
+  background-color: rgba(12, 18, 24, 0.7);
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #d18b32; /* Accent color */
+}
+
+.hero p {
+  font-size: 1.25rem;
+  color: #e0e0e0;
+}
+
+/* Cards / Listings */
+.card {
+  border: none;
+  background-color: #1f1f1f;
+  color: #f5f5f5;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+}
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #d18b32;
+  border-color: #d18b32;
+  color: #1a1a1a;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+.btn-primary:hover {
+  background-color: #b47428;
+  border-color: #b47428;
+  color: #ffffff;
+}
+
+/* Footer */
+footer {
+  background-color: #0c1218;
+  color: #d1d1d1;
+  padding: 20px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+footer a {
+  color: #d18b32;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}

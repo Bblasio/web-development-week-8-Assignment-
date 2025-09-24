@@ -1,0 +1,13 @@
+{
+  "name": "airbnb-website",
+  "version": "1.0.0",
+  "description": "A simple multi-page Wangwana Airbnb website",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
