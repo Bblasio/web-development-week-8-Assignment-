@@ -63,7 +63,7 @@ cd web-development-week-8-Assignment-
 
  4. Booking page:  Submit check-in and check-out dates. 
 
- Navigation:   Use the navbar to access Home, Listings, About, and Contact. 
+ 5. Navigation:   Use the navbar to access Home, Listings, About, and Contact. 
  ## Deliverables 
 
  1. My complete project code that is properly organized  
@@ -72,7 +72,7 @@ cd web-development-week-8-Assignment-
 
  3. README.md:Explains project purpose, structure, features, and includes live URL.  
 
-## 3. Live Deployment: 
+## 3. Live Deployment  
     Hosted via GitHub Pages: 
     https://bblasio.github.io/web-development-week-8-Assignment-/ 
 
