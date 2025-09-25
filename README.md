@@ -1,5 +1,5 @@
 # Web Development week 8 Final Project 
-## Wangwana AirBNB   
+## Wangwana Airbnb Website   
 ## Overview 
 **Wangwana** is a sleek, Airbnb-inspired rental platform built for Kisumu City.   
 It lets visitors explore beautiful homes, view detailed property showrooms with photos and amenities, and make bookings in just a few clicks.   
