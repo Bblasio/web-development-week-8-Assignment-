@@ -1,6 +1,6 @@
-
-## Wangwana Housing  
-
+# Web Development week 8 Final Project 
+## Wangwana AirBNB   
+## Overview 
 **Wangwana** is a sleek, Airbnb-inspired rental platform built for Kisumu City.   
 It lets visitors explore beautiful homes, view detailed property showrooms with photos and amenities, and make bookings in just a few clicks.   
 With a modern navy-and-golden theme, responsive design, and seamless navigation, Wangwana delivers a premium yet local experience for travelers. 
@@ -12,9 +12,6 @@ The purpose of this project is to showcase a functional property booking platfor
 - Browse available homes in Kisumu.  
 - View detailed property showrooms with images, descriptions, and booking forms.  
 - Navigate seamlessly using a consistent navbar and footer.  
-
-
-## Project Structure  
 
  ## Features
 
@@ -28,14 +25,14 @@ The purpose of this project is to showcase a functional property booking platfor
 ```
 web-development-week-8-Assignment-/ 
 ├── assets/
-│   ├── images/         # Property and logo images (e.g., logo.png, whitehouse1.jpg)
-│   ├── rooms/          # Room-specific images (e.g., living room whitehouse.jpg)
-│   └── icons/          # Favicon (e.g., favicon.ico)
+│   ├── images/         # Property and logo images 
+│   ├── rooms/          # Room-specific images 
+│   └── icons/          # Favicon 
 ├── css/
 │   ├── reset.css       # CSS reset for consistency
 │   └── main.css        # Main styles with Bootstrap integration
 ├── js/
-│   └── main.js         # JavaScript file (currently for dynamic property loading)
+│   └── main.js         # JavaScript file 
 ├── index.html          # Home page
 ├── listings.html       # Property listings page
 ├── property.html       # Dynamic property showroom page
@@ -44,7 +41,7 @@ web-development-week-8-Assignment-/
 ├── contact.html        # Contact page (placeholder)
 └── README.md           # This file
 ```
-## Installation
+## Installation 
 
  1. Clone the repository 
 git clone https://github.com/bblasio/web-development-week-8-Assignment-.git 
@@ -53,37 +50,38 @@ git clone https://github.com/bblasio/web-development-week-8-Assignment-.git
 cd web-development-week-8-Assignment-
 
  3. Open the project 
- Option A: Open index.html directly in your browser 
- Option B: Use Live Server (VS Code extension) for best experience 
- Usage 
+- Option A: Open index.html directly in your browser 
+- Option B: Use Live Server (VS Code extension) for best experience  
 
- Home Page: Displays hero section and featured stays. 
+ ## Usage 
 
- Listings Page :  Shows all properties . 
+ 1. Home Page: Displays hero section and featured stays. 
 
- Property Page :  Displays detailed property info, carousel, and booking form. 
+ 2. Listings Page :  Shows all properties . 
 
-   Submit check-in and check-out dates. 
+ 3. Property Page :  Displays detailed property info, carousel, and booking form. 
+
+ 4. Booking page:  Submit check-in and check-out dates. 
 
  Navigation:   Use the navbar to access Home, Listings, About, and Contact. 
  ## Deliverables 
 
- 1. GitHub Repository:  
-    Contains complete project code, organized into assets/, css/, js/, and HTML files. 
+ 1. My complete project code that is properly organized  
 
- 2. README.md: 
-   Explains project purpose, structure, features, and includes live URL. 
+ 2. GitHub Repository: Contains complete project code, organized into assets/, css/, js/, and HTML files.  
+
+ 3. README.md:Explains project purpose, structure, features, and includes live URL.  
 
 ## 3. Live Deployment: 
     Hosted via GitHub Pages: 
     https://bblasio.github.io/web-development-week-8-Assignment-/ 
 
-   ## Contact
-For questions or feedback, reach out via: 
+   ## Contact 
+For questions or feedback, reach out via:  
 
-GitHub Issues: https://github.com/bblasio/web-development-week-8-Assignment-/issues 
-Email: ochiengblasio@gmail.com 
-Tel: 0703165843 
+
+- Email: ochiengblasio@gmail.com  
+- Tel: 0703165843  
 
 **Happy stays with Wangwana! 
 
